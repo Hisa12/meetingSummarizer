@@ -115,9 +115,11 @@ The Streamlit application will open in your browser.
 
 E.g) Discussion home priority
 Transcript
+
 <img width="789" height="428" alt="Screenshot 2026-08-12 210144" src="https://github.com/user-attachments/assets/83230977-d722-4291-9528-187393bb3612" />
 
 Summary
+
 <img width="772" height="683" alt="Screenshot 2026-08-12 210151" src="https://github.com/user-attachments/assets/7db7aa03-cdcf-434f-a895-c3662f55061e" />
 
 
